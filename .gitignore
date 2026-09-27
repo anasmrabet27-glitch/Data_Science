@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+
+# Large datasets
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
